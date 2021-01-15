@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**hatf0/hatf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+hatf0@palo-alto:~$ whoami
+Hi, my name is Harrison. This is my personal GitHub -- expect nothing but pure nonsense.
+> languages
+I write C, C++ and D as my primary languages, however dabble into others when needed.
+> hobbies
+Reverse engineering, smoking a nice brisket, and breaking compilers.
+> location
+America/New_York (EST)
+> pronouns
+he/him
+> contact_info
+See my website https://0xcc.pw
+Alternatively, contact my email on this page.
+```

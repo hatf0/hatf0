@@ -12,4 +12,6 @@ he/him
 > contact_info
 See my website https://0xcc.pw
 Alternatively, contact my email on this page.
+> quit
+Bye! 👋
 ```

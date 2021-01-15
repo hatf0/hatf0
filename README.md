@@ -1,5 +1,5 @@
 ```console
-hatf0@palo-alto:~$ whoami
+hatf0@palo-alto:~$ info
 Hi, my name is Harrison. This is my personal GitHub -- expect nothing but pure nonsense.
 > languages
 I write C, C++ and D as my primary languages, however dabble into others when needed.

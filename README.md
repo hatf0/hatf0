@@ -1,17 +1,9 @@
 ```console
 hatf0@palo-alto:~$ info
-Hi, my name is Harrison. This is my personal GitHub -- expect nothing but pure nonsense.
-> languages
-I write C, C++ and D as my primary languages, however dabble into others when needed.
-> hobbies
-Reverse engineering, smoking a nice brisket, and breaking compilers.
-> location
-America/New_York (EST)
-> pronouns
-he/him
+Hi, my name is Harrison. I'm a 19 y/o software developer pursuing a degree in Comp Sci.
 > contact_info
-See my website https://0xcc.pw
-Alternatively, contact my email on this page.
+Type in `contact` onh https://ud2.sh
+Alternatively, my email is listed on this page - feel free to email me there.
 > quit
 Bye! 👋
 ```
